@@ -57,3 +57,7 @@ Keeping record of all resources that were shared in the `ml-for-infosec` channel
 ## :eyeglasses: Repositories
 
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+
+### Acknowledgements
+
+Merci à toutes les personnes qui contribuent et animent le canal ! :robot::blue_heart:
