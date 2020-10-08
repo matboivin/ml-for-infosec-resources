@@ -10,6 +10,7 @@ Keeping record of all resources that were shared in the `ml-for-infosec` channel
 - [DEF CON 27 AI Village playlist](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ)
 - [Offensive and defensive security with machine learning (J. I. Escribano) T1 - CyberCamp 2017 (EN)](https://youtu.be/JYPHbs8CDPM)
 - [:fr: SSTIC 2017: Le Machine Learning confronté aux contraintes opérationnelles des systèmes de détection](https://www.sstic.org/2017/presentation/le_machine_learning_confront_aux_contraintes_oprationnelles_des_systmes_de_dtection/)
+- ["AI & Machine Learning" Cybersecurity Conversation](https://youtu.be/ywEBc9c4vog)
 
 ## :page_with_curl: Articles
 
@@ -28,6 +29,8 @@ Keeping record of all resources that were shared in the `ml-for-infosec` channel
 #### OSINT
 
 - [What is OSINT? How can I make use of it?](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it)
+- [OSINTCurio.us: Python, Your Friendly OSINT Helper](https://osintcurio.us/2018/12/25/python-your-friendly-osint-helper/)
+- [OSINTCurio.us: Data Scraping and Visualizing using Instant Data Scraper, ViewDNS.info, and Maltego](https://osintcurio.us/2020/04/15/data-scraping-and-visualizing-using-instant-data-scraper-viewdns-info-and-maltego/)
 
 #### Adversarial Machine Learning
 
@@ -57,6 +60,10 @@ Keeping record of all resources that were shared in the `ml-for-infosec` channel
 ## :eyeglasses: Repositories
 
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+
+## Use cases
+
+- [ROXANNE](https://roxanne-euproject.org/project)
 
 ### Acknowledgements
 
