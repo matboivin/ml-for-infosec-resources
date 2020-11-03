@@ -31,10 +31,12 @@ Keeping record of all resources that were shared in the `ml-for-infosec` channel
 - [What is OSINT? How can I make use of it?](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it)
 - [OSINTCurio.us: Python, Your Friendly OSINT Helper](https://osintcurio.us/2018/12/25/python-your-friendly-osint-helper/)
 - [OSINTCurio.us: Data Scraping and Visualizing using Instant Data Scraper, ViewDNS.info, and Maltego](https://osintcurio.us/2020/04/15/data-scraping-and-visualizing-using-instant-data-scraper-viewdns-info-and-maltego/)
+- [conINT 2020 - Intelligence Conference & CTF](https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/)
 
 #### Adversarial Machine Learning
 
 - [AI Security and Adversarial Machine Learning 101](https://towardsdatascience.com/ai-and-ml-security-101-6af8026675ff)
+- [Microsoft launches machine learning cyber-attack threat matrix](https://portswigger.net/daily-swig/microsoft-launches-machine-learning-cyber-attack-threat-matrix)
 
 #### Using GPUs for training your ML models
 
