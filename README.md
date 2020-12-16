@@ -18,6 +18,7 @@ Keeping record of all resources that were shared in the `ml-for-infosec` channel
 - [Malware Analysis with Visual Pattern Recognition](https://towardsdatascience.com/malware-analysis-with-visual-pattern-recognition-5a4d087c9d26)
 - [Machine learning – Predict vulnerabilities by examining the words in a URL](http://offensiveai.com/machine-learning-predict-vulnerabilities-by-examining-the-words-in-a-url/)
 - [DARPA Cyber Grand Challenge (CGC) (Archived)](https://www.darpa.mil/program/cyber-grand-challenge)
+- [Dangerous Pickles — Malicious Python Serialization](https://intoli.com/blog/dangerous-pickles/)
 
 #### SOC / SIEM
 
@@ -32,11 +33,13 @@ Keeping record of all resources that were shared in the `ml-for-infosec` channel
 - [OSINTCurio.us: Python, Your Friendly OSINT Helper](https://osintcurio.us/2018/12/25/python-your-friendly-osint-helper/)
 - [OSINTCurio.us: Data Scraping and Visualizing using Instant Data Scraper, ViewDNS.info, and Maltego](https://osintcurio.us/2020/04/15/data-scraping-and-visualizing-using-instant-data-scraper-viewdns-info-and-maltego/)
 - [conINT 2020 - Intelligence Conference & CTF](https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/)
+- [Automating OSINT](http://www.automatingosint.com/blog/)
 
 #### Adversarial Machine Learning
 
 - [AI Security and Adversarial Machine Learning 101](https://towardsdatascience.com/ai-and-ml-security-101-6af8026675ff)
 - [Microsoft launches machine learning cyber-attack threat matrix](https://portswigger.net/daily-swig/microsoft-launches-machine-learning-cyber-attack-threat-matrix)
+- [adversarial.js](https://kennysong.github.io/adversarial.js)
 
 #### Using GPUs for training your ML models
 
